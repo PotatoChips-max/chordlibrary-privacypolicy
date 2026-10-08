@@ -1,0 +1,127 @@
+# Chord Library Privacy Policy
+
+Oct 8, 2026 · @PotatoChips
+
+Chord Library keeps your songs on your phone, shows no ads and does no tracking; only Community Chord, which you choose to use, needs your Google account email.
+
+## 1. Who we are
+``
+Chord Library (Android package com.chord.library, published as PotatoChips) is made by **Samsi Bagyarta**, who is the controller of the personal data described here. Questions, requests and complaints: **potatochips0692@gmail.com**.
+
+This policy covers the Chord Library app and its Community Chord service. It is written to meet Indonesia's Personal Data Protection Law (UU No. 27 of 2022), the EU/UK GDPR, and California's CCPA/CPRA and CalOPPA (sections 11 to 13 add the details each law asks for).
+
+## 2. What stays on your phone
+
+Your songs, folders, Jam Sessions, drawings, transpose and display settings are stored only on your device. We have no server that collects them and we cannot see them.
+
+You do not need an account to save, play, transpose or organise songs. The app contains no advertising, no analytics and no tracking tools, and it never reads your location, contacts, photos, camera, microphone or phone number.
+
+## 3. What we collect for Community Chord
+
+Only when you sign in to Community Chord (to import, share or report songs) do we collect the data below. Sign-in uses the Google account already on your phone and asks Google only for your email address, never your password, contacts or files.
+
+| Data | When | Why | Kept for |
+| --- | --- | --- | --- |
+| Google account email address | You sign in | To know who imports, shares and reports; daily limits; bans | Until you delete your account |
+| Activity log: time, action (import, share, report, account deleted), file name | Each Community action | Moderation and abuse prevention | 12 months |
+| Songs you share: title, artist, chords and lyrics, source web address, key settings, and the file name you type | You share to Community | Shown to everyone who uses the app | Until you or we remove them |
+| Reports: the file, reason and any details you type | You report a file | Reviewing the report | 12 months |
+| Violations and bans | A file of yours is hidden after reports, or you file a false report | Enforcing the Community rules | 12 months per violation; a permanent ban for as long as it applies |
+
+Each request carries a short-lived Google sign-in token. We check it with Google to confirm your email, keep only a scrambled (hashed) copy for up to 50 minutes so you are not checked again on every tap, and never store the token itself. Your email is never shown to other users. Drawings are never uploaded.
+
+## 4. How we use it, and on what legal basis
+
+We use Community data only to run Community Chord and keep it safe, never for advertising or profiling.
+
+- **Your consent**: you choose to sign in. You can withdraw it at any time by deleting your account (section 7).
+- **Providing the service you asked for**: sharing your songs, letting you import others' songs, handling your reports.
+- **Legitimate interest in a safe community**: daily limits (10 shares and 20 reports per account per day), the activity log, reviewing reports and applying violations: 1st, no sharing or reporting for 14 days; 2nd, 30 days; 3rd, permanent. Banned accounts can still import.
+- **Legal obligations**: answering lawful requests from authorities.
+
+## 5. Who we share it with
+
+We do not sell, rent or trade personal data, and we do not share it for advertising.
+
+- **Google** runs the services Community Chord is built on (Google Sign-In, Google Apps Script, Google Drive and Google Sheets) as our service provider, under [Google's Privacy Policy](https://policies.google.com/privacy).
+- **Other users** see the songs you share and the file name you typed, never your email.
+- **Authorities**, only when the law requires it.
+
+## 6. How long we keep it
+
+Log, report and violation entries are deleted automatically 12 months after they were made. Your email stays while your account exists and is removed when you delete the account, except that a record of violations is kept for those 12 months, and a permanent ban for as long as it applies, so a ban cannot be avoided by deleting the account. Songs you shared stay in Community Chord until you remove them (section 7) or we remove them.
+
+## 7. Your rights
+
+You can ask to **see** the data we hold about you, **correct** it, **delete** it, get a **copy** of it, **object** to or **limit** how we use it, and **withdraw your consent**. These rights come from UU PDP for users in Indonesia, the GDPR for users in the EU and UK, and California law for California residents. We will not treat you differently for using them.
+
+- **Delete your account in the app**: menu **⋮ → Delete account**. You can also choose to remove the songs you shared.
+- **Everything else**: email potatochips0692@gmail.com from the address you signed in with. We answer as soon as possible and within the time the law allows.
+- **Complaints**: you can also complain to your data protection authority (in Indonesia, the authority set up under UU PDP; in the EU or UK, your local supervisory authority).
+
+## 8. Security and where the data is stored
+
+All data travels over encrypted connections (HTTPS). Community data is stored in the developer's private Google account: the shared song folder is not public, and the moderation sheet can be opened only by the developer. Google may process it on servers outside Indonesia, protected by Google's own security and data-transfer safeguards. No system is perfectly secure; if a breach affects your data, we will tell you and the authorities as the law requires.
+
+## 9. Children
+
+Chord Library is a general music tool and is not directed at children under 13. We do not knowingly collect personal data from children under 13; if you believe a child has signed in to Community Chord, email us and we will delete that account.
+
+## 10. Websites, backups, donations and permissions
+
+- **Websites you open in the app**: the built-in browser loads the chord sites you choose. Those sites see your visit like any browser visit, may store their own cookies on your phone, and follow their own privacy policies. We do not receive your browsing history. Ad blocking happens on your phone using a list built into the app.
+- **Backups**: *Back up to file* saves a file wherever you choose. If Google Drive backup is turned on, the backup goes to your own Google Drive and the app can open only files it created there. We never receive a copy.
+- **Sharing from other apps**: when you share a song from another app (for example Spotify), only its title and artist are used to search for chords.
+- **Donations**: the Donate button opens an outside payment page. That service handles your payment; we never see card or bank details.
+- **Permissions**: Internet, to open websites and Community Chord; run at startup, so scheduled backups continue after a restart; and choosing a Google account when you sign in.
+- **Do Not Track**: we do not track you across apps or websites, so Do Not Track signals change nothing in how the app works.
+
+## 11. California residents: CCPA and CPRA notice
+
+The California Consumer Privacy Act, as amended by the California Privacy Rights Act, gives California residents the rights below. Chord Library may fall below the size at which these laws apply, but we give these rights to every California resident anyway.
+
+| CCPA category | What it means here | Source | Business purpose | Disclosed to |
+| --- | --- | --- | --- | --- |
+| Identifiers | Your Google account email address | You, confirmed by Google Sign-In | Running Community Chord; security; daily limits and bans | Google, as our service provider |
+| Internet or other electronic network activity | Activity log of your Community actions (import, share, report) | Your use of the app | Security, abuse prevention, moderation | Google, as our service provider |
+| Information you provide | Songs you share, file names, report details | You | Running Community Chord; reviewing reports | Other users (shared songs only); Google |
+
+- **Sensitive personal information**: none collected. We never ask for passwords, government IDs, financial details, precise location or health data.
+- **Selling and sharing**: in the past 12 months we have **not sold** personal information and **not shared** it for cross-context behavioral advertising, and we do not do so for anyone, including people under 16. There is therefore no "Do Not Sell or Share" choice to make.
+- **Retention**: as in section 6.
+- **Your rights**: to know what we collect, use and disclose; to get a copy; to delete; to correct; to opt out of selling or sharing (not applicable, see above); to limit use of sensitive information (not applicable); and not to be treated differently for using any of them.
+- **How to use them**: menu **⋮ → Delete account**, or email potatochips0692@gmail.com from the address you signed in with. We verify a request by matching that email address. An authorized agent may act for you with your signed permission. We reply within 45 days, or tell you within that time if we need up to 45 more.
+
+## 12. CalOPPA notice
+
+The California Online Privacy Protection Act asks every app that collects personally identifiable information from Californians to state the following.
+
+- **What we collect**: your email address when you sign in to Community Chord, plus the activity, songs and reports described in section 3. Without signing in, the app collects no personally identifiable information.
+- **Who receives it**: Google, as our service provider (section 5). Shared songs and file names are visible to other users; your email is not.
+- **Reviewing and changing your data**: email potatochips0692@gmail.com to see or correct what we hold, or delete your account in the app (section 7).
+- **Changes to this policy**: posted here and in the app with a new effective date (section 14).
+- **Do Not Track**: Chord Library does not track you across apps or websites, so we do not change anything when your browser or device sends a Do Not Track signal.
+- **Tracking by others**: we let no advertising or analytics companies collect information through our own features. The chord websites you open in the built-in browser may use their own cookies or trackers; their privacy policies apply to them.
+
+## 13. Users in the EU, EEA and UK: GDPR notice
+
+Under the EU General Data Protection Regulation and the UK GDPR, the controller is Samsi Bagyarta, contact potatochips0692@gmail.com.
+
+| Processing | Legal basis (GDPR article) |
+| --- | --- |
+| Signing in to Community Chord with your Google account | Consent, Art. 6(1)(a) |
+| Sharing, importing and reporting songs | Performance of the service you asked for, Art. 6(1)(b) |
+| Daily limits, activity log, reviewing reports, violations and bans | Legitimate interest in a safe, spam-free community, Art. 6(1)(f) |
+| Answering lawful requests from authorities | Legal obligation, Art. 6(1)(c) |
+
+- **Is it required?** Your email is needed only to use Community Chord. Every other part of the app works without it.
+- **Automated decisions**: a file reported by 3 different accounts, or once for copyright, is hidden automatically and counts as a violation, which pauses sharing and reporting (section 4). It has no legal effect and you can still import. The developer reviews every hidden file and removes the violation if the reports were wrong; you can also ask for a person to review it by email.
+- **Transfers outside the EU/UK**: your data is handled by Google, which may process it outside the EU/UK under safeguards such as the European Commission's Standard Contractual Clauses.
+- **Your rights**: access (Art. 15), correction (Art. 16), erasure (Art. 17), restriction (Art. 18), portability (Art. 20), objection to processing based on legitimate interest (Art. 21), and withdrawing consent at any time without affecting earlier processing (Art. 7(3)), by deleting your account. We reply within one month, extendable by two months for complex requests.
+- **Complaints**: you can complain to the data protection authority where you live or work, or in the UK to the Information Commissioner's Office (ICO).
+
+## 14. Changes to this policy
+
+When this policy changes, the new version is published here and in the app (menu ⋮ → Privacy Policy) with a new effective date. If a change affects how we use data you already gave us, we will tell you in the app before it applies.
+
+Effective date: 8 October 2026. Contact: potatochips0692@gmail.com.
